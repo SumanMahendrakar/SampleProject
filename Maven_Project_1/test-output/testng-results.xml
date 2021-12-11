@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22345" started-at="2021-12-10T04:24:53Z" finished-at="2021-12-10T04:25:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22345" started-at="2021-12-10T04:24:53Z" finished-at="2021-12-10T04:25:16Z">
+      <class name="DWS_Maven_Reg_Login.SelectDWStest">
+        <test-method status="PASS" signature="BrowserSetup()[pri:0, instance:DWS_Maven_Reg_Login.SelectDWStest@5f3a4b84]" name="BrowserSetup" is-config="true" duration-ms="16853" started-at="2021-12-10T04:24:53Z" finished-at="2021-12-10T04:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method status="PASS" signature="Tc03(int)[pri:0, instance:DWS_Maven_Reg_Login.SelectDWStest@5f3a4b84]" name="Tc03" duration-ms="5401" started-at="2021-12-10T04:25:10Z" data-provider="TestData" finished-at="2021-12-10T04:25:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc03 -->
+      </class> <!-- DWS_Maven_Reg_Login.SelectDWStest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="DWS_Maven_Reg_Login.LoginDWStest"/>
+      <class name="DWS_Maven_Reg_Login.RegisterDWStest"/>
+      <class name="DWS_Maven_Reg_Login.SelectDWStest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
